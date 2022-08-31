@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="beIN Sports" logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" aspect-ratio="16:9" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN Sports 1 PREMIUM
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111598
+#EXTINF:0 type="stream" channelId="-1" group="beIN Sports" logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN Sports 2 PREMIUM
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111603
+#EXTINF:0 type="stream" channelId="-1" group="beIN Sports" logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN Sports 3 PREMIUM
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111608
+#EXTINF:0 type="stream" channelId="1591" group="beIN Sports" logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN Sports 1
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111613
+#EXTINF:0 type="stream" channelId="1592" group="beIN Sports" logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN Sports 2
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111618
+#EXTINF:0 type="stream" channelId="1593" group="beIN Sports" logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN Sports 3
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111623
+#EXTINF:0 type="stream" channelId="1618" group="beIN Sports" logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN Sports 4
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111628
+#EXTINF:0 type="stream" channelId="1619" group="beIN Sports" logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN Sports 5
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111633
+#EXTINF:0 type="stream" channelId="1620" group="beIN Sports" logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN Sports 6
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111638
+#EXTINF:0 type="stream" channelId="1621" group="beIN Sports" logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN Sports 7
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111643
+#EXTINF:0 type="stream" channelId="-1" group="beIN Sports" logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN Sports XTRA 1
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111648
+#EXTINF:0 type="stream" channelId="-1" group="beIN Sports" logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN Sports XTRA 2
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111652
+#EXTINF:0 type="stream" channelId="-1" group="beIN Sports" logo="https://epg.beinsports.com/bein.com-05.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN SPORTS AFC
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/226816
+#EXTINF:0 type="stream" channelId="-1" group="beIN Sports" logo="https://epg.beinsports.com/bein.com-06.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN SPORTS AFC 1
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/226813
+#EXTINF:0 type="stream" channelId="-1" group="beIN Sports" logo="https://epg.beinsports.com/bein.com-07.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN SPORTS AFC 2
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/226810
+#EXTINF:0 type="stream" channelId="-1" group="beIN Sports" logo="https://epg.beinsports.com/bein.com-08.png" size="Big" background="https://i.pinimg.com/originals/65/3f/8b/653f8b2f0ddbbb0efb06c509d748e3ab.jpg", beIN SPORTS AFC 3
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/226807
+#EXTINF:0 type="stream" channelId="-1", BEIN PREMUIM 1 H265
+http://v2.dimapro.xyz:8080/3030/6060/58417
+#EXTINF:0 type="stream" channelId="-1", BEIN PREMUIM 2 H265
+http://v2.dimapro.xyz:8080/3030/6060/58418
+#EXTINF:0 type="stream" channelId="-1", BEIN PREMUIM 3 H265
+http://v2.dimapro.xyz:8080/3030/6060/58419
+#EXTINF:0 type="stream" channelId="-1", BEINSPORT 1 H265
+http://v2.dimapro.xyz:8080/3030/6060/58410
+#EXTINF:0 type="stream" channelId="-1", BEINSPORT 2 H265
+http://v2.dimapro.xyz:8080/3030/6060/58411
+#EXTINF:0 type="stream" channelId="-1", BEINSPORT 3 H265
+http://v2.dimapro.xyz:8080/3030/6060/58412
+#EXTINF:0 type="stream" channelId="-1", BEINSPORT 4 H265
+http://v2.dimapro.xyz:8080/3030/6060/58413
+#EXTINF:0 type="stream" channelId="-1", BEINSPORT 5 H265
+http://v2.dimapro.xyz:8080/3030/6060/58414
+#EXTINF:0 type="stream" channelId="-1", BEINSPORT 6 H265
+http://v2.dimapro.xyz:8080/3030/6060/58415
+#EXTINF:0 type="stream" channelId="-1", BEINSPORT 7 H265
+,BEINSPORT 7 H265
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN Newsᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://free.one24tv.com:443/images/jM9HVxPh83F5uqWDRPSn1u9Qj5gPYYYzw6qDpN6rMZuL8xucS9Qep2Lj0gfgpDnVWNEL2PDjJFiCkPrOSxegPQ.png", ⚽ beIN Newsᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1103.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN Sportsᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://free.one24tv.com:443/images/jM9HVxPh83F5uqWDRPSn1u9Qj5gPYYYzw6qDpN6rMZuL8xucS9Qep2Lj0gfgpDnVG_2pbDb5_sG3y7T4MUwSsw.png", ⚽ beIN Sportsᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1102.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN Premium 1ᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://free.one24tv.com:443/images/jM9HVxPh83F5uqWDRPSn1u9Qj5gPYYYzw6qDpN6rMZv1j-GCcJXM5vzxo4eNGtefFNpYFyh2Wp2xO2c_u3F4IQ.png", ⚽ beIN Premium 1ᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1104.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN Premium 2ᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://free.one24tv.com:443/images/jM9HVxPh83F5uqWDRPSn1u9Qj5gPYYYzw6qDpN6rMZuOE665OM2I9Mi3Yy3lge8i-JH7SfpviwAqrFqaBIxG8A.png", ⚽ beIN Premium 2ᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1105.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN Premium 3ᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://besttvps.com/app/tv/bein/panel-logo/p3.png", ⚽ beIN Premium 3ᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1106.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN Sports 1ᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png", ⚽ beIN Sports 1ᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1107.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN Sports 2ᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://besttvps.com/app/tv/bein/panel-logo/2hd.png", ⚽ beIN Sports 2ᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1108.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN Sports 3ᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://besttvps.com/app/tv/bein/panel-logo/3hd.png", ⚽ beIN Sports 3ᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1109.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN Sports 4ᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://besttvps.com/app/tv/bein/panel-logo/4hd.png", ⚽ beIN Sports 4ᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1110.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN Sports 5ᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://besttvps.com/app/tv/bein/panel-logo/5hd.png", ⚽ beIN Sports 5ᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1111.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN Sports 6ᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://besttvps.com/app/tv/bein/panel-logo/6hd.png", ⚽ beIN Sports 6ᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1112.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN Sports 7ᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://besttvps.com/app/tv/bein/panel-logo/7hd.png", ⚽ beIN Sports 7ᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1113.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN XTRA 1ᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://besttvps.com/app/tv/bein/panel-logo/1xhd.png", ⚽ beIN XTRA 1ᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1124.ts
+#EXTINF:0 type="stream" channelId="-1" name="⚽ beIN XTRA 2ᴴᴰ" group="beIN Sportsᴴᴰ" logo="https://besttvps.com/app/tv/bein/panel-logo/1xhd.png", ⚽ beIN XTRA 2ᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/1125.ts
+#EXTINF:0 type="stream" channelId="-1", Bein Movies HD1
+http://v2.dimapro.xyz:8080/3030/6060/73668
+#EXTINF:0 type="stream" channelId="-1", Bein Movies HD2
+http://v2.dimapro.xyz:8080/3030/6060/73669
+#EXTINF:0 type="stream" channelId="-1", Bein Movies HD3
+http://v2.dimapro.xyz:8080/3030/6060/73670
+#EXTINF:0 type="stream" channelId="-1", Bein Movies HD4
+http://v2.dimapro.xyz:8080/3030/6060/73671
+#EXTINF:0 type="stream" channelId="-1", Bein Drama HD1
+http://v2.dimapro.xyz:8080/3030/6060/73672
+#EXTINF:0 type="stream" channelId="-1", Bein Series HD1
+http://v2.dimapro.xyz:8080/3030/6060/73673
+#EXTINF:0 type="stream" channelId="-1", Bein Series HD2
+http://v2.dimapro.xyz:8080/3030/6060/73674
+#EXTINF:0 type="stream" channelId="-1", Bein Fox Life HD
+http://v2.dimapro.xyz:8080/3030/6060/73675
+#EXTINF:0 type="stream" channelId="-1", Bein Fox Crime HD
+http://v2.dimapro.xyz:8080/3030/6060/73676
+#EXTINF:0 type="stream" channelId="-1", Bein Fox Rewayat HD
+http://v2.dimapro.xyz:8080/3030/6060/73677
+#EXTINF:0 type="stream" channelId="-1", Bein Fox Movies HD
+http://v2.dimapro.xyz:8080/3030/6060/73678
+#EXTINF:0 type="stream" channelId="-1", Bein Fox Action Movies HD
+http://v2.dimapro.xyz:8080/3030/6060/73679
+#EXTINF:0 type="stream" channelId="-1", Bein Star World HD
+http://v2.dimapro.xyz:8080/3030/6060/73680
+#EXTINF:0 type="stream" channelId="-1", Bein Star Movies HD
+http://v2.dimapro.xyz:8080/3030/6060/73681
+#EXTINF:0 type="stream" channelId="-1", Bein AMC HD
+http://v2.dimapro.xyz:8080/3030/6060/73682
+#EXTINF:0 type="stream" channelId="-1", Bein HGTV HD
+,Bein HGTV HD
+#EXTINF:0 type="stream" channelId="-1" name="FR | LIGUE 1 PRIME 1 Hevc (ONLY EVENT)" group="France", FR | LIGUE 1 PRIME 1 Hevc (ONLY EVENT)
+https://free.one24tv.com:443/50741661699501/50741661699501/38712.ts
+#EXTINF:0 type="stream" channelId="-1" name="FR | LIGUE 1 PRIME 2 Hevc (ONLY EVENT)" group="France", FR | LIGUE 1 PRIME 2 Hevc (ONLY EVENT)
+https://free.one24tv.com:443/50741661699501/50741661699501/38716.ts
+#EXTINF:0 type="stream" channelId="-1" name="FR | LIGUE 1 PRIME 3 Hevc" group="France", FR | LIGUE 1 PRIME 3 Hevc
+https://free.one24tv.com:443/50741661699501/50741661699501/38720.ts
+#EXTINF:0 type="stream" channelId="-1" name="FR | LIGUE 1 PRIME 4  Hevc" group="France", FR | LIGUE 1 PRIME 4  Hevc
+https://free.one24tv.com:443/50741661699501/50741661699501/38724.ts
+#EXTINF:0 type="stream" channelId="-1" name="FR | LIGUE 1 PRIME 5  Hevc" group="France", FR | LIGUE 1 PRIME 5  Hevc
+https://free.one24tv.com:443/50741661699501/50741661699501/38729.ts
+#EXTINF:0 type="stream" channelId="-1" name="FR | LIGUE 1 PRIME 6 Full-HD" group="France", FR | LIGUE 1 PRIME 6 Full-HD
+https://free.one24tv.com:443/50741661699501/50741661699501/38732.ts
+#EXTINF:0 type="stream" channelId="-1" name="FR | LIGUE 1 PRIME 7 Full-HD" group="France", FR | LIGUE 1 PRIME 7 Full-HD
+https://free.one24tv.com:443/50741661699501/50741661699501/38734.ts
+#EXTINF:0 type="stream" channelId="-1" name="FR | LIGUE 1 PRIME 8 Full-HD" group="France", FR | LIGUE 1 PRIME 8 Full-HD
+https://free.one24tv.com:443/50741661699501/50741661699501/38736.ts
+#EXTINF:0 type="stream" channelId="-1" name="FR | LIGUE 1 PRIME 9 Full-HD" group="France", FR | LIGUE 1 PRIME 9 Full-HD
+https://free.one24tv.com:443/50741661699501/50741661699501/38738.ts
+#EXTINF:0 type="stream" channelId="-1" name="FR | Canal+ UHD" group="France", FR | Canal+ UHD
+https://free.one24tv.com:443/50741661699501/50741661699501/38667.ts
+#EXTINF:0 type="stream" channelId="-1" name="ESPN USA WEST" group="My Premium" logo="https://besttvps.com/app/panel-logos/espntv.png", ESPN USA WEST
+https://free.one24tv.com:443/50741661699501/50741661699501/15196.ts
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 2 WEST" group="My Premium" logo="https://besttvps.com/app/panel-logos/espntv.png", ESPN 2 WEST
+https://free.one24tv.com:443/50741661699501/50741661699501/15198.ts
+#EXTINF:0 type="stream" channelId="1545" name="Barca TV" group="Sports | رياضية" logo="http://fanc.tmsimg.com/assets/s85437_h3_aa.png", Barca TV
+https://free.one24tv.com:443/50741661699501/50741661699501/33643.ts
+#EXTINF:0 type="stream" channelId="-1" name="REAL MADRID TVᴴᴰ" group="Sports | رياضية" logo="https://besttvps.com/app/panel-logos/realmadtv.png", REAL MADRID TVᴴᴰ
+https://free.one24tv.com:443/50741661699501/50741661699501/20603.ts
+#EXTINF:0 type="stream" channelId="-1" name="AD Sports 1" group="Sports | رياضية" logo="https://besttvps.com/app/panel-logos/ads1.png", AD Sports 1
+https://free.one24tv.com:443/50741661699501/50741661699501/568.ts
+#EXTINF:0 type="stream" channelId="-1" name="AD Sports 2" group="Sports | رياضية" logo="https://besttvps.com/app/panel-logos/ads2.png", AD Sports 2
+https://free.one24tv.com:443/50741661699501/50741661699501/569.ts
+#EXTINF:0 type="stream" channelId="-1" name="AD Sports 3" group="Sports | رياضية" logo="https://besttvps.com/app/panel-logos/ads3.png", AD Sports 3
+https://free.one24tv.com:443/50741661699501/50741661699501/570.ts
+#EXTINF:0 type="stream" channelId="-1", SSC Sports FHD 1 AR
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/112095
+#EXTINF:0 type="stream" channelId="-1", SSC Sports FHD 2 AR
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/112096
+#EXTINF:0 type="stream" channelId="-1", SSC Sports FHD 3 AR
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/112097
+#EXTINF:0 type="stream" channelId="-1", SSC Sports 4 FHD AR
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/112098
+#EXTINF:0 type="stream" channelId="-1", SSC Sports FHD 5 AR
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/112099
+#EXTINF:0 type="stream" channelId="-1", SSC Sports 6 FHD AR
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/112100
+#EXTINF:0 type="stream" channelId="-1", SSC Sports 7 AR
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/191718
+#EXTINF:0 type="stream" channelId="-1", Item 51
+type="stream" channelId="-1", Item 51
+#EXTINF:0 type="stream" channelId="-1", OSN Yahala HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98037
+#EXTINF:0 type="stream" channelId="-1", OSN Yahala Oula  QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98036
+#EXTINF:0 type="stream" channelId="-1", OSN Yahala Cinema HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98035
+#EXTINF:0 type="stream" channelId="-1", OSN Series HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98034
+#EXTINF:0 type="stream" channelId="-1", OSN Action HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98033
+#EXTINF:0 type="stream" channelId="-1", OSN Movies HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98032
+#EXTINF:0 type="stream" channelId="-1", OSN Movies First HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98031
+#EXTINF:0 type="stream" channelId="-1", OSN Movies First +2 HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98030
+#EXTINF:0 type="stream" channelId="-1", OSN Movies Family Disney HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98029
+#EXTINF:0 type="stream" channelId="-1", OSN Enigma FHD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98028
+#EXTINF:0 type="stream" channelId="-1", OSN Kids HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98027
+#EXTINF:0 type="stream" channelId="-1", OSN Series First HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98026
+#EXTINF:0 type="stream" channelId="-1", OSN Comedy FHD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98025
+#EXTINF:0 type="stream" channelId="-1", OSN Star Movies HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98024
+#EXTINF:0 type="stream" channelId="-1", OSN Star World HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98023
+#EXTINF:0 type="stream" channelId="-1", OSN TLC HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98022
+#EXTINF:0 type="stream" channelId="-1", OSN Crime QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98021
+#EXTINF:0 type="stream" channelId="-1", OSN E! HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98020
+#EXTINF:0 type="stream" channelId="-1", OSN Living HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98019
+#EXTINF:0 type="stream" channelId="-1", OSN Mezzo Live QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98018
+#EXTINF:0 type="stream" channelId="-1", OSN Alfa Fann QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98017
+#EXTINF:0 type="stream" channelId="-1", OSN Alfa Al Safwa QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98016
+#EXTINF:0 type="stream" channelId="-1", OSN Alfa Al Yawm FHD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98015
+#EXTINF:0 type="stream" channelId="-1", OSN Alfa Cinema 1 HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98014
+#EXTINF:0 type="stream" channelId="-1", OSN Alfa Cinema 2 QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98013
+#EXTINF:0 type="stream" channelId="-1", OSN Alfa Musalsalat (Series Channel) HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98012
+#EXTINF:0 type="stream" channelId="-1", OSN Alfa Musalsalat (Series Channel) QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98011
+#EXTINF:0 type="stream" channelId="-1", OSN Alfa Music Now QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98010
+#EXTINF:0 type="stream" channelId="-1", OSN News QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98009
+#EXTINF:0 type="stream" channelId="-1", OSN History 1 HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98006
+#EXTINF:0 type="stream" channelId="-1", OSN Nat People HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98005
+#EXTINF:0 type="stream" channelId="-1", OSN Discovery ID HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98002
+#EXTINF:0 type="stream" channelId="-1", OSN Discovery HD AR
+http://ipflix.click:8080/Xini/Jsf7120!!9!/685233
+#EXTINF:0 type="stream" channelId="-1", OSN Discovery Science AR
+http://ipflix.click:8080/Xini/Jsf7120!!9!/694422
+#EXTINF:0 type="stream" channelId="-1", OSN History HD AR
+http://ipflix.click:8080/Xini/Jsf7120!!9!/685229
+#EXTINF:0 type="stream" channelId="-1", OSN Nat Geo HD AR
+http://ipflix.click:8080/Xini/Jsf7120!!9!/685230
+#EXTINF:0 type="stream" channelId="-1", OSN Nat Geo Wild HD AR
+http://ipflix.click:8080/Xini/Jsf7120!!9!/685232
+#EXTINF:0 type="stream" channelId="-1", OSN Disney Channel HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/98000
+#EXTINF:0 type="stream" channelId="-1", OSN Disney Junior HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/97999
+#EXTINF:0 type="stream" channelId="-1", OSN Woman FHD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/97998
+#EXTINF:0 type="stream" channelId="-1", OSN Nick Jr HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/97997
+#EXTINF:0 type="stream" channelId="-1", OSN Nick Toon HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/97996
+#EXTINF:0 type="stream" channelId="-1", OSN Kids Zone HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/97995
+#EXTINF:0 type="stream" channelId="-1", OSN Nickelodeon HD QA
+http://magiptv.123tv.to:8080/12G922pd/QymaU1zs4V/97994
+#EXTINF:0 type="stream" channelId="-1", OSN Box Office 1 AR
+http://ipflix.click:8080/Xini/Jsf7120!!9!/5897
+#EXTINF:0 type="stream" channelId="-1", OSN Movies Box Office 2 HD AR
+http://ipflix.click:8080/Xini/Jsf7120!!9!/8869
+#EXTINF:0 type="stream" channelId="-1", OSN Box Office 3 AR
+http://ipflix.click:8080/Xini/Jsf7120!!9!/5895
+#EXTINF:0 type="stream" channelId="-1", OSN WWE HD AR
+http://ipflix.click:8080/Xini/Jsf7120!!9!/8860
